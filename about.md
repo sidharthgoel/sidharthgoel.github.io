@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-This is where you could put your "About me" page.
+Hi, I'm Sid, a student at the University of California, Berkeley, pursuing a degree in Electrical Engineering and Computer Science.
