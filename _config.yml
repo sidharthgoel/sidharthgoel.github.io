@@ -1,5 +1,5 @@
 name: Sid's B-log
-description: Idk.
+description: Idk
 meta_description: My Blog
 
 markdown: redcarpet
@@ -9,4 +9,4 @@ paginate: 15
 
 # Details for the RSS feed generator
 url:            'sidharthgoel.com'
-author:         'Sid'
+author:         'Sidharth Goel'
