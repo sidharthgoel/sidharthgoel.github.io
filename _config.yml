@@ -1,6 +1,6 @@
-name: Sid's B-log
-description: Idk
-meta_description: "Sid's Blog"
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: redcarpet
 pygments: true
@@ -8,5 +8,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'sidharthgoel.com' #blog
-author:         'Sidharth Goel'
+url:            'blog url'
+author:         'Your Name'
