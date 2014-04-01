@@ -7,20 +7,6 @@ categories: jekyll update
 
 This past weekend I went to my first hackathon, HackTech. While it wasn't exactly what I'd expected for it to be, it was an interesting experience ; by spending hours and hours in front of a computer, trying to learn new APIs/technologies/languages, I can definitely say that I learned a lot.
 
-### My Project
-
-My partners and I went with a vague idea of a webapp that would use the Google Search API to find trending news stories and construct a "visually interesting" display of these topics. This crashed and burned for multiple reasons:
-
-1. Lack of preparedness
-
-2. Lack of decent Internet connection (seriously.)
-
-3. Easily distracted
-
-Obviously, we didn't have anyone to blame for 1 and 3 besides ourselves, but 2 was incredibly disappointing.
-
-Anyway, through a series of events I found myself in another group of hackers.
-
 ### My Real Project
 
 Our project was to build a music-collaboration web-app that gave users a max of 20 minutes to work together in creating 20 seconds of sheet music (or 16 measures).
