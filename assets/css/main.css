@@ -29,7 +29,7 @@ body {
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway";
-    font-weight: 300;
+    font-weight: 500;
     color: #333;
 }
 
@@ -50,7 +50,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #808080;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -131,6 +131,7 @@ a:after {
 	width: 100%;
 	padding-top: 250px;
 	padding-bottom: 250px;
+	font-size: 10px;
 }
 
 #hello h1 {
@@ -143,6 +144,16 @@ a:after {
 #hello h2 {
 	color: #c0c0c0;
 	font-weight: 400;
+}
+
+#hello h3 {
+	font-size: 50px;
+	padding-bottom: 10px;
+
+}
+
+#hello p {
+	font-size: 20px;
 }
 
 /* Green */
