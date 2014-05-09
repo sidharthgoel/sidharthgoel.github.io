@@ -3,7 +3,7 @@ description: Yeaaah
 meta_description: "Sid's Blog"
 
 markdown: redcarpet
-pygments: true
+highlighter: true
 logo: false
 paginate: 15
 
