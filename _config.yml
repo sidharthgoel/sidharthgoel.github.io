@@ -1,12 +1,22 @@
-name: Sid's Blog
-description: Yeaaah
-meta_description: "Sid's Blog"
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-markdown: redcarpet
-highlighter: true
-logo: false
-paginate: 15
+# Permalinks
+permalink:        pretty
 
-# Details for the RSS feed generator
-url:            'blog url'
-author:         'Sidharth Goel'
+# Setup
+title:            Sidharth Goel
+tagline:          :)
+url:              http://sidharthgoel.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Sidharth Goel
+  url:            https://sidharthgoel.com
+  email:          me@sidharthgoel.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/sidharthgoel/sidharthgoel.github.io
