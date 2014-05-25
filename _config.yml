@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/sidharthgoel/sidharthgoel.github.ios
+  repo:           github.com/sidharthgoel/sidharthgoel.github.io
 
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
