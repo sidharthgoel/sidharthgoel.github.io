@@ -4,6 +4,10 @@
   {% include head.html %}
   {% include google_analytics.html %}
 
+  {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+  {% endif %}
+
   <body>
 
     <div class="container content">
