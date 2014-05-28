@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
   {% include head.html %}
   {% include google_analytics.html %}
@@ -30,7 +31,7 @@
 
       <div class="footer">
         <p>
-          &copy; {{ site.time | date: '%Y' }} Sidharth Goel
+          <a href="atom.xml">Feed</a> &copy; {{ site.time | date: '%Y' }} Sidharth Goel 
         </p>
       </div>
     </div>

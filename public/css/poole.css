@@ -292,6 +292,19 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+/*
+ * Footer
+ *
+ * Super small footer below the content for site name and short description.    //fix the alignment issue
+ */
+
+.footer {
+  text-align: right;
+}
+
+.footer a {
+  text-align: left;
+}
 
 /*
  * Posts and pages
