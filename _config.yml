@@ -30,6 +30,7 @@ github:
 pages_list:       
   About: '/about/'
   Archive: '/archive/' #removed -> Feed: '/atom.xml'
+  Links: '/links/'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
