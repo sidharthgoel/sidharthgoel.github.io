@@ -5,6 +5,8 @@ title: Thoughts + Advice
 
 ## Berkeley
 
+{% youtube 2AE08ovaRAM %}
+
 **Is it "Cal" or "Berkeley"?**  
 It really doesn't matter. I normally say Berkeley when I'm talking to someone who I think would know it as an world-class academic institution, and Cal when it's someone who's world doesn't extend beyond football. My default is Berkeley.
 
