@@ -5,8 +5,6 @@ title: Thoughts + Advice
 
 ## Berkeley
 
-{% youtube 2AE08ovaRAM %}
-
 Berkeley, Cal, UCB are equivalent.
 
 [List of Resources](http://www.ocf.berkeley.edu/~vlo/BerkeleyResources.php#textbooks)  
