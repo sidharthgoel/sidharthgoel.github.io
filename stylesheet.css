@@ -4,6 +4,11 @@ a {
   background-color: #d4f0f9;
 }
 
+a:hover {
+  text-decoration: underline;
+  background-color: #c6e9f4;
+}
+
 body {
   margin: 40px auto;
   max-width: 800px;
@@ -30,7 +35,7 @@ h1, h2, h3 {
 
 .bio {
   float: "left";
-  width: 100%;
+  width: 70%;
 }
 
 .profile {
