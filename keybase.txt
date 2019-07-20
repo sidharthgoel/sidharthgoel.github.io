@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sgoel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sidharthgoel.com
+  * I am sgoel (https://keybase.io/sgoel) on keybase.
+  * I have a public key ASA-4wgZsliINBVMW7Sp7gWj5iIsXEL4QUL1qxpen2EUgwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203ee30819b2588834154c5bb4a9ee05a3e6222c5c42f84142f5ab1a5e9f6114830a",
+      "host": "keybase.io",
+      "kid": "01203ee30819b2588834154c5bb4a9ee05a3e6222c5c42f84142f5ab1a5e9f6114830a",
+      "uid": "0de406362aa34a1823b15aca999e3f19",
+      "username": "sgoel"
+    },
+    "merkle_root": {
+      "ctime": 1563662070,
+      "hash": "d87987b543d566e359b003feef81fa7189a12f03367fc1c61cddb5313e9d52ea9d89454df6e3e17887119d6d39ab21d3747c2c719d6f5257903b70cfeae36f54",
+      "hash_meta": "0b85ce3a846c62c7f8f55068683ba104000807f7aeb706b591f6a8d266d84a7c",
+      "seqno": 5811802
+    },
+    "service": {
+      "entropy": "80GW0RHFNyV3H/0IuUkklcVE",
+      "hostname": "sidharthgoel.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563662097,
+  "expire_in": 504576000,
+  "prev": "600c5bea4ebc55d06f1be42d0b7a6056be6a590dd63ba09c8fc99b4740d21bb1",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPuMIGbJYiDQVTFu0qe4Fo+YiLFxC+EFC9asaXp9hFIMKp3BheWxvYWTESpcCCcQgYAxb6k68VdBvG+QtC3pgVr5qWQ3WO6Ccj8mbR0DSG7HEIO4oV1ysuRzb8VEYc4Qgxn0KNkmoKmq/VjJr/VVv6xYFAgHCo3NpZ8RA1BvKcZVVnXl2TdCegxmvKsd+YQN8vMNSyBFuXiKVerWOcaKBqn94Ay1jgdhAVHoL1uknitBGKwUVzD/i/NJrCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJIbEolTqVVkDYYbzbvmFkrreZ9ayZObYeh9Z8DH8WBMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sgoel
+
+==================================================================
