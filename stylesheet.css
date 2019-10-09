@@ -44,3 +44,13 @@ h1, h2, h3 {
   height: auto;
   float: right;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #444;
+    color: #e4e4e4;
+  }
+  img {
+    filter: grayscale(30%);
+  }
+}
