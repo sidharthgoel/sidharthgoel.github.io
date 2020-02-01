@@ -1,3 +1,3 @@
-# sidharthgoel.github.io
+# sgoe1.github.io
 
 Personal website
